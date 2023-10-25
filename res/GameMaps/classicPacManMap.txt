@@ -1,0 +1,24 @@
+21 23
+XXXXXXXXXXXXXXXXXXXXX
+XoooooooooXoooooooooX
+XOXXXoXXXoXoXXXoXXXOX
+XoXXXoXXXoXoXXXoXXXoX
+XoooooooooooooooooooX
+XoXXXoXoXXXXXoXoXXXoX
+XoooooXoooXoooXoooooX
+XXXXXoXXX.X.XXXoXXXXX
+....XoX...B...XoX....
+....XoX.XXDXX.XoX....
+XXXXXoX.XIPCX.XoXXXXX
+.....o..XXXXX..o.....
+XXXXXoX.......XoXXXXX
+....XoX.XoFoX.XoX....
+XXXXXoX.XXXXX.XoXXXXX
+XoooooooooXoooooooooX
+XoXXXoXXXoXoXXXoXXXoX
+XOooXoooooMoooooXooOX
+XXXoXoXoXXXXXoXoXoXXX
+XoooooXoooXoooXoooooX
+XoXXXXXXXoXoXXXXXXXoX
+XoooooooooooooooooooX
+XXXXXXXXXXXXXXXXXXXXX
